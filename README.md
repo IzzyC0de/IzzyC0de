@@ -1,15 +1,3 @@
-<p align="left"></p>
-
-###
-
-<br clear="both">
-
-<div>
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=true&fontSize=70&fontColor=FFFFF&fontAlign=50&fontAlignY=50&rotate=0&stroke=-&strokeWidth=0&animation=scaleIn&descSize=32&descAlign=50&descAlignY=50&textBg=false&color=gradient"  />
-</div>
-
-###
-
 <h1 align="center">Willkommen  👋</h1>
 
 ###
@@ -23,8 +11,6 @@
 <p align="left"></p>
 
 ###
-
-<br clear="both">
 
 <img align="left" height="239" src="https://avatars.githubusercontent.com/u/240575307?s=400&u=428024c07e81046bf7284f17cf7148aef6eec8c3&v=4"  />
 
@@ -117,12 +103,6 @@
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=IzzyC0de&locale=de&mode=weekly&theme=radical&hide_border=false&border_radius=6&order=3" height="178" alt="streak graph"  />
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=IzzyC0de&radius=16&theme=redical&area=true&order=5&hide_title=true&hide_border=false" height="300" alt="activity-graph graph"  />
-</div>
-
-###
-
-<div>
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=105&section=footer&reversal=false&fontSize=70&fontAlign=50&fontAlignY=50&stroke=-&animation=scaleIn&descSize=32&descAlign=50&descAlignY=50&textBg=false&color=gradient"  />
 </div>
 
 ###
