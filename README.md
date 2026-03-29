@@ -2,6 +2,28 @@
 
 ###
 
+<br clear="both">
+
+<p align="left"></p>
+
+###
+
+<br clear="both">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/IzzyC0de/IzzyC0de/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/IzzyC0de/IzzyC0de/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/IzzyC0de/IzzyC0de/output/pacman-contribution-graph.svg">
+</picture>
+
+###
+
+<br clear="both">
+
+<p align="left"></p>
+
+###
+
 <h2 align="left">👩‍💻  Über mich</h2>
 
 ###
@@ -12,27 +34,26 @@
 
 ###
 
-<img align="left" height="239" src="https://avatars.githubusercontent.com/u/240575307?s=400&u=428024c07e81046bf7284f17cf7148aef6eec8c3&v=4"  />
+<img align="left" height="260" src="https://avatars.githubusercontent.com/u/240575307?s=400&u=428024c07e81046bf7284f17cf7148aef6eec8c3&v=4"  />
 
 ###
 
-<h4 align="left">Hi, ich bin Ismet! Ich komme aus München und befinde mich gerade auf dem Weg zum Fullstack-Entwickler. Mein Ziel ist es, meine künstlerische Ader mit moderner Technik zu verbinden. Hier auf GitHub dokumentiere ich meine Reise von den ersten HTML-Zeilen bis hin zu komplexen Web-Projekten.</h4>
+<h4 align="left">Hi, ich bin Ismet! 👋<br><br>📍 München, Deutschland<br>Ich bin ein angehender Fullstack-Entwickler, Gamer und Künstler. Ich liebe es, kreative Ideen in sauberen Code zu verwandeln.<br><br>
+### 🚀 Was ich gerade mache<br>🔭 Ich arbeite gerade an einer neuen Webseite.<br>👯 Ich suche Unterstützung bei kreativen Frontend-Projekten.<br>🤝 Ich brauche Hilfe bei fortgeschrittenem JavaScript und Backend-Logik.<br>🌱 Ich lerne aktuell Fullstack-Entwicklung, um das große Ganze zu verstehen.<br>💬 Frag mich über Webdesign-Grundlagen oder meinen Weg zum Entwickler.<br>⚡ Fun Fact Wenn ich nicht code, sammle ich XP in Games oder erschaffe Kunstwerke auf der Leinwand.</h4>
 
 ###
 
-<picture style="display: flex;">
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/IzzyC0de/IzzyC0de/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/IzzyC0de/IzzyC0de/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/IzzyC0de/IzzyC0de/output/pacman-contribution-graph.svg">
-</picture>
-
-###
+<br clear="both">
 
 <p align="left"></p>
 
 ###
 
 <h2 align="left">⭐️ Social Media</h2>
+
+###
+
+<p align="left"></p>
 
 ###
 
@@ -60,9 +81,11 @@
 
 ###
 
-<br clear="both">
-
 <h2 align="left">🛠 Sprachen und Tools</h2>
+
+###
+
+<p align="left"></p>
 
 ###
 
@@ -95,6 +118,10 @@
 ###
 
 <h2 align="left">🔥   Statistiken:</h2>
+
+###
+
+<p align="left"></p>
 
 ###
 
