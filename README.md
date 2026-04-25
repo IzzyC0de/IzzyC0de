@@ -45,7 +45,26 @@
 
 ###
 
-<div style="display: flex; justify-content: space-between; width: 100%;">
+<div dir="auto" style="
+    display: flex;
+    justify-content: space-around;
+">
+  <a href="https://www.linkedin.com/in/ismet-sakanovic-3a51a3283" rel="nofollow">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="44" style="max-width: 100%;">
+  </a>
+  <a href="/IzzyC0de/IzzyC0de/blob/main/izzyc0de">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="44" style="max-width: 100%;">
+  </a>
+  <a href="/IzzyC0de/IzzyC0de/blob/main/@ikopiko">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/paypal/default.svg" width="44" style="max-width: 100%;">
+  </a>
+  <a href="https://gitlab.com/izzyc0de-group/IzzyC0de-project" rel="nofollow">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gitlab/default.svg" width="44" style="max-width: 100%;">
+  </a>
+  <a href="https://www.instagram.com/ik0pik0" rel="nofollow">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="44" style="max-width: 100%;">
+  </a>
+</div>
   <a href="https://www.linkedin.com/in/ismet-sakanovic-3a51a3283" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="44" />
   </a>
