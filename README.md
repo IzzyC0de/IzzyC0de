@@ -45,10 +45,7 @@
 
 ###
 
-<div dir="auto" style="
-    display: flex;
-    justify-content: space-around;
-">
+<div>
   <a href="https://www.linkedin.com/in/ismet-sakanovic-3a51a3283" rel="nofollow">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="44" style="max-width: 100%;">
   </a>
