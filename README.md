@@ -45,9 +45,9 @@
 
 ###
 
-<div align="center" justify-content="space-between">
+<div align="center">
   <a href="https://www.linkedin.com/in/ismet-sakanovic-3a51a3283" target="_blank">
-    <img width="54" src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="44" />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="44" />
   </a>
   <a href="izzyc0de" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="44" />
