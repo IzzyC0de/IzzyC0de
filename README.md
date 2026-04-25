@@ -36,6 +36,7 @@
 <p align="left"></p>
 
 ###
+<br clear="both">
 
 <h2 align="left">⭐️ Social Media</h2>
 
