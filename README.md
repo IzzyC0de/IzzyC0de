@@ -77,35 +77,7 @@
 
 ###
 
-<div align="center">
-  <a href="https://www.linkedin.com/in/ismet-sakanovic-3a51a3283">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" height="43" />
-  </a>
-  
-  <img width="40" />
-  
-  <a href="izzyc0de">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" height="43" />
-  </a>
-  
-  <img width="40" />
-  
-  <a href="@ikopiko">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/paypal/default.svg" height="43" />
-  </a>
-  
-  <img width="40" />
-  
-  <a href="https://gitlab.com/izzyc0de-group/IzzyC0de-project">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gitlab/default.svg" height="43" />
-  </a>
-  
-  <img width="40" />
-  
-  <a href="https://www.instagram.com/ik0pik0">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" height="43" />
-  </a>
-</div>
+<div align="center"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="44" alt="html5 logo" /> <img width="54" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="44" alt="css logo" /> <img width="54" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="44" alt="javascript logo" /> <img width="54" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="44" alt="python logo" /> <img width="54" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="44" alt="figma logo" /> <img width="54" /> <img src="https://skillicons.dev/icons?i=github" height="44" alt="github logo" /> <img width="54" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/filezilla/filezilla-plain.svg" height="44" alt="filezilla logo" /> <img width="54" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" height="44" alt="pycharm logo" /> <img width="54" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="44" alt="typescript logo" /> <img width="54" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="44" alt="vscode logo" /> </div>
 
 ###
 
