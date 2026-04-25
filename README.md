@@ -45,7 +45,7 @@
 
 ###
 
-<div style="display: flex; justify-content: space-between;">
+<div style="display: flex; justify-content: space-between; width: 100%;">
   <a href="https://www.linkedin.com/in/ismet-sakanovic-3a51a3283" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="44" />
   </a>
