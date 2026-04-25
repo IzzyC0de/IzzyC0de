@@ -45,7 +45,7 @@
 
 ###
 
-<div align="center">
+<div align="center" display="flex">
   <a href="www.linkedin.com/in/ismet-sakanovic-3a51a3283" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="92" height="43" alt="linkedin logo"  />
   </a>
