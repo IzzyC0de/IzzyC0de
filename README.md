@@ -106,7 +106,6 @@
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=IzzyC0de&locale=de&mode=weekly&theme=radical&hide_border=false&border_radius=6&order=3" height="178" alt="streak graph"  />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=IzzyC0de&radius=16&theme=redical&area=true&order=5&hide_title=true&hide_border=false" height="300" alt="activity-graph graph"  />
 </div>
 
 ###
